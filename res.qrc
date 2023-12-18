@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>sanwei.ico</file>
+        <file>camera.png</file>
+    </qresource>
+</RCC>
